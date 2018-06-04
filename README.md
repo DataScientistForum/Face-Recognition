@@ -1,5 +1,5 @@
 # Simple OpenCV Face Recognition in Python
-
+[![DOI](https://zenodo.org/badge/109494864.svg)](https://zenodo.org/badge/latestdoi/109494864)
 
 Face Recognition tutorial refference for http://thecodacus.com 
 
